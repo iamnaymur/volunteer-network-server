@@ -1,0 +1,142 @@
+[
+  {
+    "eventName": "Beach Cleanup",
+    "date": "2023-06-10",
+    "image": "https://i.ibb.co/NZgddXC/river-Clean.png",
+    "location": "Santa Monica Beach",
+    "description": "Join us for a morning of picking up trash and debris from the beach. We'll provide gloves, bags, and other supplies to help keep the beach clean and healthy."
+  },
+  {
+    "eventName": "Soup Kitchen",
+    "date": "2023-06-12",
+    "image": "https://i.ibb.co/R03ykQX/extra-Volunteer.png",
+    "location": "Downtown Community Center",
+    "description": "Volunteer at our soup kitchen and help prepare and serve hot meals to those in need. No experience necessary - we'll show you the ropes!"
+  },
+  {
+    "eventName": "Park Beautification",
+    "date": "2023-06-15",
+    "image": "https://i.ibb.co/RbvwNKt/clearn-Park.png",
+    "location": "Central Park",
+    "description": "Spend the afternoon planting flowers, weeding, and picking up litter in our beautiful city park. Bring your gardening gloves and a can-do attitude!"
+  },
+  {
+    "eventName": "Blood Drive",
+    "date": "2023-06-17",
+    "image": "https://i.ibb.co/0Vv5sZV/child-Support.png",
+    "location": "Red Cross Donation Center",
+    "description": "Donate blood and save lives! Our blood drive is open to all eligible donors, and we'll provide snacks and drinks to help you recover afterwards."
+  },
+  {
+    "eventName": "Community Garden",
+    "date": "2023-06-19",
+    "image": "https://i.ibb.co/0M9w0SV/bird-House.png",
+    "location": "Local Community Garden",
+    "description": "Help tend to our community garden and harvest fresh produce for donation to local food banks and shelters. Learn about sustainable gardening practices while giving back to the community."
+  },
+  {
+    "eventName": "Animal Shelter",
+    "date": "2023-06-22",
+    "image": "https://i.ibb.co/HXDSmnP/animal-Shelter.png",
+    "location": "Local Animal Shelter",
+    "description": "Spend time with our furry friends and help care for them at the animal shelter. Duties may include feeding, walking, and playing with the animals."
+  },
+  {
+    "eventName": "Habitat for Humanity",
+    "date": "2023-06-24",
+    "image": "https://i.ibb.co/fMf7sHb/refuse-Shelter.png",
+    "location": "Habitat for Humanity Build Site",
+    "description": "Join us for a day of building and renovating affordable housing in our community. No construction experience necessary - we'll provide the tools and training."
+  },
+  {
+    "eventName": "Homeless Outreach",
+    "date": "2023-06-26",
+    "image": "https://i.ibb.co/0Vv5sZV/child-Support.png",
+    "location": "Local Homeless Shelter",
+    "description": "Help distribute food, clothing, and other essentials to those experiencing homelessness in our community. Make a difference in the lives of others by volunteering with us."
+  },
+  {
+    "eventName": "Eco-Friendly Workshop",
+    "date": "2023-07-01",
+    "image": "https://i.ibb.co/nssm36n/vote-Register.png",
+    "location": "Local Community Center",
+    "description": "Join us for an interactive workshop on eco-friendly living. Learn about reducing waste, composting, and other sustainable practices to help protect our planet."
+  },
+  {
+    "eventName": "Food Bank",
+    "date": "2023-07-03",
+    "image": "https://i.ibb.co/Q8QBhHZ/food-Charity.png",
+    "location": "Local Food Bank",
+    "description": "Help sort and distribute food to those in need at our local food bank. Every little bit helps!"
+  },
+  {
+    "eventName": "Senior Center",
+    "date": "2023-07-06",
+    "image": "https://i.ibb.co/K5Vm50c/study-Group.png",
+    "location": "Local Senior Center",
+    "description": "Spend time with seniors in our community and help with activities such as games, crafts, and exercise. Brighten their day and make new friends while volunteering."
+  },
+  {
+    "eventName": "Nature Trail Cleanup",
+    "date": "2023-07-08",
+    "image": "https://i.ibb.co/GP4ZW1F/school-Suffiles.png",
+    "location": "Local Nature Trail",
+    "description": "Join us for a morning of cleaning up our beautiful nature trail. We'll provide gloves and bags to help pick up litter and debris, and snacks to keep you fueled."
+  },
+  {
+    "eventName": "Library Shelving",
+    "date": "2023-07-11",
+    "image": "https://i.ibb.co/ng7VMVH/newBooks.png",
+    "location": "Local Library",
+    "description": "Help organize and shelve books at our community library. No experience necessary - we'll teach you everything you need to know!"
+  },
+  {
+    "eventName": "Disaster Relief",
+    "date": "2023-07-13",
+    "image": "https://i.ibb.co/K98C7FC/clean-Water.png",
+    "location": "Red Cross Relief Center",
+    "description": "Help prepare and distribute emergency supplies for those affected by natural disasters. Your efforts can make a real difference in the lives of those impacted."
+  },
+  {
+    "eventName": "Community Center Cleanup",
+    "date": "2023-07-16",
+    "image": "https://i.ibb.co/VwvmDmQ/music-Lessons.png",
+    "location": "Local Community Center",
+    "description": "Help clean and organize our community center to make it a welcoming space for everyone. We'll provide cleaning supplies and snacks to keep you energized."
+  },
+  {
+    "eventName": "Teach a Class",
+    "date": "2023-07-19",
+    "image": "https://i.ibb.co/cyBMBVX/ITHelp.png",
+    "location": "Local Community Center",
+    "description": "Share your skills and knowledge by teaching a class at our community center. Topics can include anything from art to cooking to technology - the sky's the limit!"
+  },
+  {
+    "eventName": "Park Cleanup",
+    "date": "2023-07-24",
+    "image": "https://i.ibb.co/RbvwNKt/clearn-Park.png",
+    "location": "Local Park",
+    "description": "Join us for a morning of cleaning up our community park. We'll provide gloves and bags to help pick up litter and debris, and snacks to keep you fueled."
+  },
+  {
+    "eventName": "Community Garden",
+    "date": "2023-07-27",
+    "image": "https://i.ibb.co/RbvwNKt/clearn-Park.png",
+    "location": "Local Community Garden",
+    "description": "Help tend and care for our community garden. We'll teach you everything you need to know about planting, watering, and harvesting our fruits and vegetables."
+  },
+  {
+    "eventName": "Pet Shelter",
+    "date": "2023-07-30",
+    "image": "https://i.ibb.co/qF4PBqn/stuffed-Animals.png",
+    "location": "Local Pet Shelter",
+    "description": "Spend time with animals in need and help with tasks such as feeding, grooming, and walking. You'll make new furry friends and help give them the love and care they deserve."
+  },
+  {
+    "eventName": "Homeless Shelter",
+    "date": "2023-08-02",
+    "image": "https://i.ibb.co/fMf7sHb/refuse-Shelter.png",
+    "location": "Local Homeless Shelter",
+    "description": "Help prepare and serve meals for those staying at our local homeless shelter. Your efforts can make a real difference in the lives of those in need."
+  }
+]
